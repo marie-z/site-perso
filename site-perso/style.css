@@ -1,0 +1,215 @@
+body {
+	background-image: url("images/background5.jpg");
+	height: 1000px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+.white {
+	background-color: white;
+	border-radius: 50px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	margin-top: 200px;
+}
+
+.center {
+	text-align: center;
+}
+
+img {
+
+max-width: 100%;
+  height: auto;
+  margin-top: 20px;
+  padding-bottom: 30px;
+}
+
+.center h1 {
+
+font-family: "comfortaa", cursive;
+font-size: 50px;
+font-size: 4vw;
+
+}
+
+.center h2 {
+
+font-family: "comfortaa", cursive;
+font-size: 35px;
+font-size: 3vw;
+
+}
+
+.center h4 {
+
+font-family: "comfortaa", cursive;
+font-size: 20px;
+font-size: 1,5vw;
+padding-top: 20px;
+
+}
+
+
+.center a {
+
+font-family: "comfortaa", cursive;
+font-size: 20px;
+font-size: 1,5vw;
+padding-top: 20px;
+color: #B4045F;
+
+}
+
+/* index2.html */
+
+
+.container-fluid {
+
+text-align: center;
+
+}
+
+.container-fluid p a {
+
+text-align: center;
+font-family: "comfortaa", cursive;
+font-size: 20px;
+font-size: 1,5vw;
+padding-top: 20px;
+color: #B4045F;
+
+}
+
+.white2 {
+
+	background-color: white;
+	border-radius: 50px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	margin-top: 75px;
+	font-family: "Roboto Mono", Sans Serif;
+	text-align: left;
+}
+
+.white2 h2 {
+
+	text-align: left;
+	font-size: 35px;
+	font-style: bold;
+	text-align: center;
+}
+
+.presentation {
+
+margin-top: 30px;
+padding-right: 30px;
+padding-left: 30px;
+font-size: 16px;
+}
+
+
+/* index3.html */
+
+
+.presentation {
+
+text-align: center;
+
+}
+
+.sous-titre h2 {
+
+text-align: center;
+font-family: "Comfortaa", cursive;
+font-size: 40px;
+color: white;
+background-color: #B4045F;
+padding-top: 10px;
+padding-bottom: 10px;
+margin-bottom: 50px;
+
+}
+
+.sous-titre1 h2 {
+
+text-align: center;
+font-family: "Comfortaa", cursive;
+font-size: 40px;
+color: white;
+background-color: #B4045F;
+padding-top: 10px;
+padding-bottom: 10px;
+margin-bottom: 50px;
+margin-top: 50px;
+}
+
+.card-columns .card {
+
+border-radius: 20px;
+
+}
+
+.card-body {
+
+text-align: center;
+
+}
+
+.col-6 {
+
+background: white;
+
+}
+
+.card-text a {
+
+color: #B4045F;
+
+}
+
+
+
+/* index4.html */
+
+
+.white2 .logo {
+
+height: 70px;
+
+}
+
+.contact {
+
+font-family: "Roboto Mono", Sans Serif;
+text-align: center;
+
+}
+
+
+.contact p {
+
+font-family: "Roboto Mono", Sans Serif;
+text-align: center;
+font-size: 1vw;
+}
+
+
+.pied {
+
+font-family: "Roboto Mono", Sans Serif;
+font-size: 1vw;
+text-align: center;
+margin-top: 30px;
+}
+
+
+
+
+
+
+
+
+
+
