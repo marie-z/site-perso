@@ -86,9 +86,9 @@ color: #B4045F;
 
 	background-color: white;
 	border-radius: 50px;
-	padding-top: 50px;
-	padding-bottom: 50px;
-	margin-top: 75px;
+	padding-top: 80px;
+	padding-bottom: 80px;
+	margin-top: 80px;
 	font-family: "Roboto Mono", Sans Serif;
 	text-align: left;
 }
@@ -208,6 +208,7 @@ margin-top: 30px;
 
 margin-right: 50px;
 margin-left: 50px;
+
 
 }
 
